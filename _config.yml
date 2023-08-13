@@ -31,8 +31,8 @@ url: "https://jwooo27.github.io"
 github:
   username: jwooo27 # change to your github username
 
-linkedin:
-  username: jongwoolee27
+# linkedin:
+  # username: jongwoolee27
 # twitter:
   # username: twitter_username # change to your twitter username
 
@@ -47,7 +47,7 @@ social:
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    - https://www.linkedin.com/in/username
+    # - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
 
