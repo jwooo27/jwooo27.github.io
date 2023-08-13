@@ -16,7 +16,7 @@ last_modified_at: 2023-08-13
 - 2022 여름 인턴 끝나고 작성한 회고글입니다.
 
 
-![img.png](../assets/img/intern_brown_2022.png)
+![intern_brown_2022.png](/assets/img/intern_brown_2022.png)
 
 길다면 길고 짧다면 짧은 LINE에서의 여름 인턴이 끝났다.
 
@@ -38,7 +38,6 @@ last_modified_at: 2023-08-13
 그런데 생각보다 Airflow가 자료가 별로 없다. 그니까 적용 사례는 많은데 각자의 상황에 맞게 커스텀해서 쓰다 보니 나한테 정말 필요한 기능이나 구축 과정에 대한 자료는 정말 적다.
 
 정말 운이 좋게도 내가 인턴하기 몇 달 전에 나온 <Apache Airflow 기반의 데이터 파이프라인> 책을 구할 수 있었고 이 책을 정말 몇 번을 봤는지 모르겠다. 
-![](https://velog.velcdn.com/images/jwooo/post/5e76a0a2-f3bf-4237-97cf-55460f1cf698/image.png)
 
 그리고 Airflow는 공식문서가 꽤나 잘 나온 편이라 문제가 생길 때면 Docs를 정독하곤 했다.
 
@@ -101,4 +100,4 @@ Data Engineer는 Data Analytics와 Data Scientist의 어딘가에 위치하여 �
 
 이렇게 모든 것들이 나의 노력과 더불어 "운"의 요소도 늘 함께하고 있다는 사실에 늘 겸손하게 살아야겠다고 생각을 한다. 그리고 이런 좋은 결실을 맺도록 도와준 내 주변 사람들에게 감사의 인사를 전하고 싶다.
 
-![img.png](../assets/img/intern_certificate_2022.png)
+![intern_certificate_2022.png](/assets/img/intern_certificate_2022.png)
